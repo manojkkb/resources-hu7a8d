@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manojkkb.github.io/resources-hu7a8d/sitemap.xml
